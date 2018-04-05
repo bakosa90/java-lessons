@@ -1,0 +1,13 @@
+.form-signin{
+	margin:0 auto;
+	width:200px;
+	border:6px solid gray;
+	padding:16px;
+}
+.form-signin>input,button{
+	display:block;
+	width:200px;
+	box-sizing:border-box;
+	margin-top: 6px;
+}
+
