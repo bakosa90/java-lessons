@@ -4,8 +4,6 @@ import org.json.simple.JSONObject;
 
 public class Category {
     public int id;
-    public String description;
-    public int [] itemIds;
     public String name;
 
     public Category() {}
